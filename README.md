@@ -28,8 +28,6 @@ The primary objective of the SJSU Pantry Web application is to provide students 
 The Spartan Food Pantry is a food assistance program that provides non-perishable goods, fresh produce, and refrigerated items to qualifying students experiencing food insecurity. A significant number of SJSU students visit and utilize the university's pantry regularly. More than 18,880 SJSU students visited the pantry between March 2019 and January 2020, and roughly 24,000 students have visited since the pantry opened. Even during the "shelter in place" protocol that was implemented during the COVID-19 pandemic, there have been approximately 900 visits per week to the pantry. In the past year, 70,500 pounds of fresh produce were donated and managed by the SJSU Pantry. However, students are limited to one visit per week to the pantry, and the typical wait time in queues is 30 minutes owing to COVID-19 regulations. Consequently, they sometimes acquire food items based on chance rather than necessity.  It can become tedious for students to frequently visit the pantry to determine whether certain food items are available. In order to make the process of obtaining food from the pantry more convenient, we decided to build an application which helps the students, volunteers, and admins.
 
 
-### GIF
-
 ### Prerequisites
 
 NPM / Yarn and Node.js installed
@@ -60,6 +58,4 @@ and open another terminal on client directory
 
 npm run start
 
-
-Access the web app at http://localhost:3000/
 
