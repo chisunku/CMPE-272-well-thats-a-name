@@ -48,6 +48,10 @@ cd server && npm install
 ### GIF
 ![final_video_AdobeExpress](https://user-images.githubusercontent.com/112538639/205581427-abd6891e-4c02-4f6a-b348-a85ca00e04b2.gif)
 
+`
+![final_video_AdobeExpress (1)](https://user-images.githubusercontent.com/112538639/205583212-d023e5a4-3dce-4442-b7c6-166f284ce9c5.gif)
+
+
 
 ### Running the app
 
