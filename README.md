@@ -9,6 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Instructor
 ### Project goals and objectives
 ### Problem and motivation
+### demo video: https://drive.google.com/file/d/1yvlxYcd8E6tASI7gHVxCc0Q3JdigNZxi/view?usp=share_link
+### link: http://sjsupantry.hackjack.host/
 ### GIF
 
 ### Prerequisites
